@@ -1,0 +1,5 @@
+PS.: Project using a HTML's API called canvas
+
+#01
+- Creating structure canvas in the html file and JS file
+- After, we must to get canvas element into the const called canvasEl and then use it to set context into the variable canvasCtx
