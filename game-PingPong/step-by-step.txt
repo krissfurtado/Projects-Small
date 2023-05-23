@@ -8,3 +8,7 @@ PS.: Project using a HTML's API called canvas
 - Creating 2 functions, the first named "Setup" to register all setup concerning elements animations and the second is called draw to register
 - Setting the dimensions of the canvas element (canvasEl) and context (canvasCtx) in the setup function. Get width and height from the user window
 
+#03
+- Drawing the center line: We have to create a rectangle at the center of the table
+- first we need create (out of the function) a const to take the center line width
+- after set color with canvasCtx.fillStyle and dimensions with canvasCtx.fillRect
