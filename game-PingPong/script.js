@@ -9,6 +9,7 @@ function setup() {
 function draw() {
     //set table color (green)
     canvasCtx.fillStyle = "#286047"
+    //drawing a rectangle, starting from the top left corner
     canvasCtx.fillRect(0, 0, window.innerWidth, window.innerHeight)
 }
 
